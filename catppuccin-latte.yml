@@ -46,21 +46,21 @@ colors:
         black: "#5C5F77" # subtext1
         red: "#D20F39" # red
         green: "#40A02B" # green
-        yellow: "#DF8E1D" # yellow
+        yellow: "#FE640B" # peach
         blue: "#1E66F5" # blue
-        magenta: "#EA76CB" # pink
+        magenta: "#8839EF" # muave
         cyan: "#179299" # teal
         white: "#ACB0BE" # surface2
 
     # Bright colors
     bright:
         black: "#6C6F85" # subtext0
-        red: "#D20F39" # red
-        green: "#40A02B" # green
+        red: "#E64553" # maroon
+        green: "#6CB45E" # green but bright
         yellow: "#DF8E1D" # yellow
-        blue: "#1E66F5" # blue
+        blue: "#209FB5" # sapphire
         magenta: "#EA76CB" # pink
-        cyan: "#179299" # teal
+        cyan: "#04A5E5" # teal
         white: "#BCC0CC" # surface1
 
     # Dim colors
